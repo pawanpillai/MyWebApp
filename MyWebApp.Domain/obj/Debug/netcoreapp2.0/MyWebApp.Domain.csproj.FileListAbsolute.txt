@@ -1,0 +1,9 @@
+C:\CSC\Projects\MyWebApp\MyWebApp.Domain\bin\Debug\netcoreapp2.0\MyWebApp.Domain.deps.json
+C:\CSC\Projects\MyWebApp\MyWebApp.Domain\bin\Debug\netcoreapp2.0\MyWebApp.Domain.dll
+C:\CSC\Projects\MyWebApp\MyWebApp.Domain\bin\Debug\netcoreapp2.0\MyWebApp.Domain.pdb
+C:\CSC\Projects\MyWebApp\MyWebApp.Domain\obj\Debug\netcoreapp2.0\MyWebApp.Domain.csprojResolveAssemblyReference.cache
+C:\CSC\Projects\MyWebApp\MyWebApp.Domain\obj\Debug\netcoreapp2.0\MyWebApp.Domain.csproj.CoreCompileInputs.cache
+C:\CSC\Projects\MyWebApp\MyWebApp.Domain\obj\Debug\netcoreapp2.0\MyWebApp.Domain.AssemblyInfoInputs.cache
+C:\CSC\Projects\MyWebApp\MyWebApp.Domain\obj\Debug\netcoreapp2.0\MyWebApp.Domain.AssemblyInfo.cs
+C:\CSC\Projects\MyWebApp\MyWebApp.Domain\obj\Debug\netcoreapp2.0\MyWebApp.Domain.dll
+C:\CSC\Projects\MyWebApp\MyWebApp.Domain\obj\Debug\netcoreapp2.0\MyWebApp.Domain.pdb

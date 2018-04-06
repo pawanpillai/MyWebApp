@@ -1,0 +1,15 @@
+C:\CSC\Projects\MyWebApp\MyWebApp.UI\obj\Debug\netcoreapp2.0\MyWebApp.UI.csprojResolveAssemblyReference.cache
+C:\CSC\Projects\MyWebApp\MyWebApp.UI\obj\Debug\netcoreapp2.0\MyWebApp.UI.csproj.CoreCompileInputs.cache
+C:\CSC\Projects\MyWebApp\MyWebApp.UI\obj\Debug\netcoreapp2.0\MyWebApp.UI.AssemblyInfoInputs.cache
+C:\CSC\Projects\MyWebApp\MyWebApp.UI\obj\Debug\netcoreapp2.0\MyWebApp.UI.AssemblyInfo.cs
+C:\CSC\Projects\MyWebApp\MyWebApp.UI\bin\Debug\netcoreapp2.0\MyWebApp.UI.deps.json
+C:\CSC\Projects\MyWebApp\MyWebApp.UI\bin\Debug\netcoreapp2.0\MyWebApp.UI.runtimeconfig.json
+C:\CSC\Projects\MyWebApp\MyWebApp.UI\bin\Debug\netcoreapp2.0\MyWebApp.UI.runtimeconfig.dev.json
+C:\CSC\Projects\MyWebApp\MyWebApp.UI\bin\Debug\netcoreapp2.0\MyWebApp.UI.dll
+C:\CSC\Projects\MyWebApp\MyWebApp.UI\bin\Debug\netcoreapp2.0\MyWebApp.UI.pdb
+C:\CSC\Projects\MyWebApp\MyWebApp.UI\obj\Debug\netcoreapp2.0\MyWebApp.UI.dll
+C:\CSC\Projects\MyWebApp\MyWebApp.UI\obj\Debug\netcoreapp2.0\MyWebApp.UI.pdb
+C:\CSC\Projects\MyWebApp\MyWebApp.UI\bin\Debug\netcoreapp2.0\MyWebApp.Data.dll
+C:\CSC\Projects\MyWebApp\MyWebApp.UI\bin\Debug\netcoreapp2.0\MyWebApp.Domain.dll
+C:\CSC\Projects\MyWebApp\MyWebApp.UI\bin\Debug\netcoreapp2.0\MyWebApp.Data.pdb
+C:\CSC\Projects\MyWebApp\MyWebApp.UI\bin\Debug\netcoreapp2.0\MyWebApp.Domain.pdb
